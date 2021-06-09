@@ -12,4 +12,4 @@ Resources for Digital Electronics
   - [Digital Electronics - Gate Academy](https://www.youtube.com/playlist?list=PLgzsL8klq6DKdCO8Pbz_6QSvC6bt10Bkn)
   
 - Books
-  - [Digital Design by M. Morris Mano & Michael D. Ciletti](http://e4uhu.com/down/Logic/5e.pdf)
+  - Digital Design by M. Morris Mano & Michael D. Ciletti
